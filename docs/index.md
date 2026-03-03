@@ -91,6 +91,6 @@ Please cite as:
 ---
 
 
-
+[add-bioschemas file='_data/metadata.yml']
 
 
