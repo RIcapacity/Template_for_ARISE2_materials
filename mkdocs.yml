@@ -4,6 +4,7 @@ nav:
     - Course Content:
       - "1. title of first chapter": chapters/chapter_01.md
       - "2. title of second chapter": chapters/chapter_02.md
+      - "3. title of third chapter" : chapters/chapter_03.md
       - "References": chapters/references.md
     - "Follow up training": follow_up_training.md
 
@@ -34,7 +35,7 @@ plugins:
 
   
 # Footer
-copyright: This repository is created by RIcapacity working on ARISE2 project. 
+copyright: Creation of these materials was initially funded by  the ARISE and ARISE2 programs,  EC MSCA Cofund grants under Grant agreements numbers XXXXX and XXXXX. Materials are made availiable under a CC-BY 4.0 licence 
 
 markdown_extensions:
   - abbr
