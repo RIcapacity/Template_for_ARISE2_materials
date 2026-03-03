@@ -12,12 +12,12 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
 
 !!! overview ""
     :fontawesome-regular-bookmark: **Description**  
-    Add a short description of the training materail should be inserted here. 
+    This course is providing introduction to the TITLE OF THE COURSE, further description of the courses. 
     
     </br>
     
     :fontawesome-solid-arrow-left: **Prerequisites**  
-    To be able to follow this course, learners should have knowledge in:  
+    To be able to follow this course, learners should have knowledge of:  
     &emsp;1. First requirement  
     &emsp;2. Second requirement  
     
@@ -32,31 +32,26 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     
     :fontawesome-solid-users: **Target Audience:**  
     The training materials are meant for:  
-    &emsp;1. For self-paced learning  
-    &emsp;2. For trainers: using it for training  
-    &emsp;3. For community: using it to collect the knowledge in one place  
-    
+
+    1. For self paced learning  
+    2. For trainers to use it to prepare their training  
+    3. For community to collect the knowledge about this topic in one place.   
 
     </br>
     
     :fontawesome-solid-stairs: **Level:** Beginner/Intermediate/Advanced  
-    
-    :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
-    
-    :fontawesome-solid-money-bill-1: **Funding:** ARISE2 project has received funding from the European Union’s Horizon Europe’s research and innovation programme under the Marie Skłodowska-Curie COFUND, grant agreement No. 101178241.   
-
 
     </br>
     
     :fontawesome-regular-clock: **Time plan:**  
     The content will approximately follow this time plan:  
-    &emsp;00-15  
-    &emsp;15-30  
-    &emsp;30-45  
-    &emsp;45-60  
-    &emsp;60-75  
-    &emsp;75-90  
-    &emsp;105-120  
+    * 00-15 min  
+    * 15-30 min  
+    * 30-45 min  
+    * 45-60 min  
+    * 60-75 min  
+    * 75-90 min  
+    * 105-120 min  
     
     </br>
     
@@ -76,11 +71,15 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
     [comment]: # (Property in Biochema: licence)
     [comment]: # (This is an example for CONVERGE)
 
-#### Contributors
+#### Contributors ( trainers, editors )
 
 [cards class_name="contributors" cols="6"(./docs/assets/cards/contributor_cards.yaml)]
 Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](www.flaticon.com)
 
+---
+    :fontawesome-solid-lock: **License:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)  
+    
+    :fontawesome-solid-money-bill-1: **Funding:** ARISE2 project has received funding from the European Union’s Horizon Europe’s research and innovation programme under the Marie Skłodowska-Curie COFUND, grant agreement No. 101178241.   
 ---
 ## Citing this lesson
 
